@@ -1,3 +1,2 @@
-#  cities
+#  API
 # first project
-# https://tkachukstanislav.github.io/city/
